@@ -1,3 +1,8 @@
+# Rules of engagement
+
+* When a PR is open the approver (should/ shouldn't) merge
+* ?? other rules :D
+
 # Project Suggestions
 This is a list of projects that we could make open source contributions to at [Syntactic Sugar](https://twitter.com/syntaxSugarLdn).
 
