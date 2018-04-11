@@ -1,5 +1,9 @@
 # Scalaz
 
+## Language
+
+Scala
+
 ## Description
 
 Scalaz is a Scala library for functional programming.  It contains purely functional data structures, typeclasses and corresponding instances.
@@ -30,6 +34,10 @@ Take a look at [#1](https://github.com/syntactic-sugar-london/project-suggestion
 - [#1658](https://github.com/scalaz/scalaz/issues/1658) Monad Reader needs laws.
 
   This adds laws to the currently lawless MonadReader.  Some decent laws have been detailed in [mtl#5](https://github.com/haskell/mtl/issues/5) in the mtl library in Haskell, which this can be extended to.  This is suitable for Scalaz 7.3.
+
+## Setup Instructions
+
+The contributor's guide has a section on [setting up the project](https://github.com/scalaz/scalaz/blob/series/7.3.x/CONTRIBUTING.md#building-and-testing-scalaz-locally).
 
 ## Representative
 
